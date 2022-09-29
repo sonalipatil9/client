@@ -1,0 +1,12 @@
+.btn-edit{
+    background-color: rgb(235, 227, 18);
+}
+.btn-delete{
+    background-color: rgb(217, 18, 235);
+}
+.btn-view{
+    background-color: rgb(11, 242, 119);
+}
+thead{
+    background-color: rgb(247, 9, 84);
+}

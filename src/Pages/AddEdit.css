@@ -1,0 +1,28 @@
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select{
+    width:100%;
+    padding:20 px;
+    display:inline-block;
+    border: 1px solid red;
+    margin:15 px;
+    box-sizing: border-box;
+    
+    
+
+}
+
+input[type="submit"]{
+    width:100%;
+    display:inline-block;
+    background-color: rgba(5, 75, 11, 0.829);
+    padding:14 px;
+}
+
+input[type="submit"]:hover{
+    background-color: aqua;
+    
+
+}
